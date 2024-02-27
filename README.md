@@ -57,8 +57,8 @@
   <br/>
   <h4>About Me:</h4>
   <br/>
-  <p>I have 2+years of web Designing , web development & mobile application development experience. JavaScript and Python being my core technical Skill, I  don't limit within it. I do more study and research to keep updated with the latest technologies. Visit my Github Page to know more about my projects and skills. Link given below.</p>
+  <p>I have 1+years of web Designing , web development & mobile application development experience. JavaScript and Python being my core technical Skill, I  don't limit within it. I do more study and research to keep updated with the latest technologies. Visit my Github Page to know more about my projects and skills. Link given below.</p>
   <br/>
-  <p align="center">Made with ♥ by <a href="https://abidadhikari.com.np">ReadMe Generator By Abid Adhikari</a></p>
+  <p align="center">Made with ♥ </p>
     
     
