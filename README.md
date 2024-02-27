@@ -17,7 +17,7 @@
       width="40"
     />
   </a>
-  <a href=https://facebook.com/kebal khadka  target="blank">
+  <a href=https://www.facebook.com/kebal.khadka.7  target="blank">
     <img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
