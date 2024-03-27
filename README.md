@@ -35,7 +35,7 @@
       width="40"
     />
   </a>
-  <a href=https://stackoverflow.com/users/abid-adhikari target="blank">
+  <a href=https://stackoverflow.com/users/kebal target="blank">
     <img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
