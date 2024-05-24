@@ -35,19 +35,11 @@
       width="40"
     />
   </a>
-  <a href=https://stackoverflow.com/users/kebal target="blank">
+  
+  <a href=https://www.linkedin.com/in/kebal-khadka-889930216/ target="blank">
     <img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
-      alt=Kebal Khadka
-      height="30"
-      width="40"
-    />
-  </a>
-  <a href=https://youtube.com/c/abidadhiakarics target="blank">
-    <img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
       alt=Kebal Khadka
       height="30"
       width="40"
