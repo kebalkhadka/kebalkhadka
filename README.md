@@ -61,6 +61,5 @@
   <br/>
 
 
-  <p align="center">Made with ♥ </p>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=kebalkhadka)](https://git.io/streak-stats)
+  
     
