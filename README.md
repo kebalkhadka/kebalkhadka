@@ -59,6 +59,8 @@
   <br/>
   <p>I have 1+years of web Designing , web development & mobile application development experience. JavaScript and Python being my core technical Skill, I  don't limit within it. I do more study and research to keep updated with the latest technologies. Visit my Github Page to know more about my projects and skills. Link given below.</p>
   <br/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=kebalkhadka)](https://git.io/streak-stats)
+
   <p align="center">Made with ♥ </p>
-    
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=kebalkhadka)](https://git.io/streak-stats)
     
