@@ -7,7 +7,6 @@
 
 📫 How to reach me
    - 📧kebalkhadka7@gmail.com
-   - <a herf="https://www.kebalkhadka.com.np/">click me</a>
    - 🌐www.kebalkhadka.com.np
 
 <h3 align="left">Connect with me:</h3>
