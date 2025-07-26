@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kebal khadka</h1>
-<h3 align="center">A passionate Data enthusiast from Nepal</h3>
+<h3 align="center">A passionate Quality auurnace from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kebalkhadka&label=Profile%20views&color=0e75b6&style=flat" alt="kebalkhadka" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data technologies**
 
-- 💬 Ask me about **Data**
+- 💬 Ask me about **QA**
 
 - 📫 How to reach me **kebalkhadka7@gmail.com**
 
