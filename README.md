@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kebalkhadka" alt="kebalkhadka" /></a> </p>
 
-- 🌱 I’m currently learning **Data technologies**
+- 🌱 I’m currently learning **New technologies**
 
 - 💬 Ask me about **QA**
 
